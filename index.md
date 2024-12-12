@@ -4,7 +4,7 @@ This is my home page! My name is Keira Pultz and I am a student at [Cal State Fu
 
 ## Computer Science Projects
 
-My GitHub page is (http://github.com/keirapultz).
+My GitHub page is [http://github.com/keirapultz](http://github.com/keirapultz).
 
 ### CPSC 120
 

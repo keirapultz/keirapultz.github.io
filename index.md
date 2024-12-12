@@ -1,6 +1,6 @@
 # Hello World
 
-This is my home page! My name is Your Name and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is computer science.
+This is my home page! My name is Keira Pultz and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is computer science.
 
 ## Computer Science Projects
 
